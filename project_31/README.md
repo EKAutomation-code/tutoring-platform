@@ -69,7 +69,7 @@ time.sleep(1)
 
 ### Стало: 2 секунды
 ```python
-time.sleep(1)
+time.sleep(2)
 ```
 
 ## Лицензия
