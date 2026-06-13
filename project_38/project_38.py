@@ -5,7 +5,7 @@ import time
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ApplicationBuilder
 
-TELEGRAM_BOT_TOKEN ="8899332559:AAGSK7vq7qEoDzNk1LVJEPlLdJu0FkigCIg"
+TELEGRAM_BOT_TOKEN =""
 target_prices={} # {chat_id: target_price}
 active_monitors={} # {chat_id: True/False}
 PROXY_URL = None
